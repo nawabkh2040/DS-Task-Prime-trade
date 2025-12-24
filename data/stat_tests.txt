@@ -1,0 +1,21 @@
+Statistical tests run at Wed Dec 24 15:40:33 2025
+Groups: ['Extreme Fear', 'Extreme Greed', 'Fear', 'Greed', 'Neutral']
+Extreme Fear: n=14, mean=52793.589, median=22561.740
+Extreme Greed: n=114, mean=23817.292, median=3127.536
+Fear: n=91, mean=36891.818, median=1412.315
+Greed: n=193, mean=11140.566, median=678.476
+Neutral: n=67, mean=19297.324, median=1818.573
+scipy not available — running permutation F-test fallback
+Permutation F-statistic=2.7913, p=0.03279
+
+Pairwise permutation tests (mean difference):
+Extreme Fear vs Extreme Greed: mean_diff=28976.297, p=0.1552
+Extreme Fear vs Fear: mean_diff=15901.771, p=0.5849
+Extreme Fear vs Greed: mean_diff=41653.023, p=0.04799
+Extreme Fear vs Neutral: mean_diff=33496.266, p=0.03019
+Extreme Greed vs Fear: mean_diff=13074.526, p=0.2809
+Extreme Greed vs Greed: mean_diff=12676.726, p=0.1054
+Extreme Greed vs Neutral: mean_diff=4519.969, p=0.6675
+Fear vs Greed: mean_diff=25751.252, p=0.005599
+Fear vs Neutral: mean_diff=17594.495, p=0.1668
+Greed vs Neutral: mean_diff=8156.757, p=0.3183

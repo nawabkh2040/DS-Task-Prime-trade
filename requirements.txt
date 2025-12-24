@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
+jupyter
+pyarrow
