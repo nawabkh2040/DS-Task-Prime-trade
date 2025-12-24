@@ -27,6 +27,3 @@ python scripts/clean_and_merge.py --historical historical_data.csv --sentiment f
 
 3. Open `notebooks/report.ipynb` in VSCode or Jupyter and run cells.
 
-Contact
-
-When ready to submit, attach your repository or notebook and email per the assignment instructions.
